@@ -3,15 +3,19 @@
   <img alt="Samuel Araag. Especialista em Desenvolvimento de Software, Backend .NET." src="assets/header-dark.svg">
 </picture>
 
-Especialista em Desenvolvimento de Software, backend .NET. Mais de 4 anos em sistemas fiscais transacionais de alto volume, com progressão de estagiário a especialista na mesma empresa.
+<br>
 
-Stack: C# e .NET 8, ASP.NET Core, APIs REST, mensageria com Kafka, RabbitMQ e AWS SQS, RavenDB, PostgreSQL e SQL Server, arquitetura orientada a eventos. Foco em performance, observabilidade e testes automatizados.
+Mais de 4 anos em desenvolvimento de software, com progressão de estagiário a especialista na mesma empresa. Atuação em sistemas fiscais transacionais de alto volume, com C# e .NET 8, APIs REST e mensageria com Kafka, RabbitMQ e AWS SQS, sobre RavenDB, PostgreSQL e SQL Server, em arquitetura orientada a eventos.
 
-Escala já sustentada em produção: lotes acima de 900 mil transações e campanhas de 8 milhões de eventos fiscais processados em cerca de 10 horas.
+Foco em performance, observabilidade e testes automatizados. Escala já sustentada em produção: lotes acima de 900 mil transações e 8 milhões de eventos fiscais processados em cerca de 10 horas.
+
+<br>
 
 - [Portfólio](https://samuelaraag.github.io/portfolio-samuel-araag/)
 - [LinkedIn](https://linkedin.com/in/samuelaraag)
 - E-mail: samuelsantosaraag.dev@gmail.com
+
+<br>
 
 **Em destaque:** [PR Manager](https://github.com/SamuelAraag/pr-manager), plataforma de gestão do fluxo de desenvolvimento em .NET 8, Clean Architecture, EF Core, PostgreSQL 16, JWT, SignalR e RabbitMQ. Em uso próprio, com histórico rastreável em mais de 60 pull requests.
 
