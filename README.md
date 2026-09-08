@@ -10,6 +10,8 @@ Mais de 4 anos em desenvolvimento de software, com progressão de estagiário a 
 
 Foco em performance, observabilidade e testes automatizados. Escala já sustentada em produção: lotes acima de 900 mil transações e 8 milhões de eventos fiscais processados em cerca de 10 horas.
 
+Aberto a vaga .NET sênior ou especialista, remoto no Brasil.
+
 <br>
 
 - [Portfólio](https://samuelaraag.github.io/portfolio-samuel-araag/)
