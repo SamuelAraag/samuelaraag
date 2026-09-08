@@ -4,6 +4,7 @@
 </picture>
 
 <br>
+<br>
 
 Mais de 4 anos em desenvolvimento de software, com progressão de estagiário a especialista na mesma empresa. Atuação em sistemas fiscais transacionais de alto volume, com C# e .NET 8, APIs REST e mensageria com Kafka, RabbitMQ e AWS SQS, sobre RavenDB, PostgreSQL e SQL Server, em arquitetura orientada a eventos.
 
