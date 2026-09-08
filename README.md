@@ -12,8 +12,8 @@ Foco em performance, observabilidade e testes automatizados. Escala já sustenta
 
 <br>
 
-- <a href="https://samuelaraag.github.io/portfolio-samuel-araag/" target="_blank" rel="noopener noreferrer">Portfólio</a>
-- <a href="https://linkedin.com/in/samuelaraag" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- [Portfólio](https://samuelaraag.github.io/portfolio-samuel-araag/)
+- [LinkedIn](https://linkedin.com/in/samuelaraag)
 
 <br>
 
