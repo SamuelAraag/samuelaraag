@@ -12,14 +12,11 @@ Foco em performance, observabilidade e testes automatizados. Escala já sustenta
 
 <br>
 
-- [Portfólio](https://samuelaraag.github.io/portfolio-samuel-araag/)
-- [LinkedIn](https://linkedin.com/in/samuelaraag)
-- E-mail: samuelsantosaraag.dev@gmail.com
+- <a href="https://samuelaraag.github.io/portfolio-samuel-araag/" target="_blank" rel="noopener noreferrer">Portfólio</a>
+- <a href="https://linkedin.com/in/samuelaraag" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 <br>
 
 **Em destaque:** [PR Manager](https://github.com/SamuelAraag/pr-manager), plataforma de gestão do fluxo de desenvolvimento em .NET 8, Clean Architecture, EF Core, PostgreSQL 16, JWT, SignalR e RabbitMQ. Em uso próprio, com histórico rastreável em mais de 60 pull requests.
 
 <!-- atividade: incluir UM card discreto aqui depois (github-readme-stats em tema neutro OU waka-readme em texto) -->
-
-<!-- musica: incluir o SVG do novatorem aqui depois (ultima faixa tocada no Spotify) -->
